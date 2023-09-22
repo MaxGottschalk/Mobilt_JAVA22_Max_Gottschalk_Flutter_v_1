@@ -1,0 +1,8 @@
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "lib/img/among_us.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "lib/img/among_us.png"
+  android_adaptive_icon_background: "#FFFFFF"
+  android_adaptive_icon_foreground: "lib/img/among_us.png"
